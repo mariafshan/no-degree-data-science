@@ -18,7 +18,12 @@ I built this curriculum using myself an anchor (non-STEM background, b-school gr
 
 *However, regardless of which stage you are in life, I highly recommend you read the following: "is [Computer Science/ Data Science/ etc] the right career choice for me?"*
 
-### Bridging Modules
+### Bridging Courses
+#### Mathematics
+1. [Mathematics for Machine Learning Specialization](https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome "Mathematics for Machine Learning Specialization") (Imperial College London/ Coursera)
+a. [Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome "Linear Algebra") | repo | [certificate](https://coursera.org/share/1669232101d985c26e57e44efa8c11a1 "certificate")
+b. [Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning/home/welcome "Multivariate Calculus") | repo | [certificate](https://coursera.org/share/07e5fdc5d8e1d7ba3781c579c2fcd21a "certificate")
+
 #### Programming
 1. [Stanford Code in Place](https://codeinplace.stanford.edu/ "Stanford Code in Place")
 2. [CS50: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x "CS50: Introduction to Computer Science") (Harvard/ EdX) | [repo](https://github.com/me50/mariafshan "repo") | [certificate](https://cs50.harvard.edu/certificates/5487bd80-cc87-4b54-bf5e-dca0798cac28 "certificate")
