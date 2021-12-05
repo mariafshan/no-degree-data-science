@@ -21,5 +21,9 @@ I built this curriculum using myself an anchor (non-STEM background, b-school gr
 ### Bridging Modules
 #### Programming
 1. [Stanford Code in Place](https://codeinplace.stanford.edu/ "Stanford Code in Place")
-2. [CS50: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x "CS50: Introduction to Computer Science") (Harvard/edX) | [repo](https://github.com/me50/mariafshan "repo") | [certificate](https://cs50.harvard.edu/certificates/5487bd80-cc87-4b54-bf5e-dca0798cac28 "certificate")
-3. 
+2. [CS50: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x "CS50: Introduction to Computer Science") (Harvard/ EdX) | [repo](https://github.com/me50/mariafshan "repo") | [certificate](https://cs50.harvard.edu/certificates/5487bd80-cc87-4b54-bf5e-dca0798cac28 "certificate")
+3. [Python for Everybody Specialization](https://www.coursera.org/specializations/python "Python for Everybody Specialization") (University of Michigan/ Coursera)
+a. [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python/home/welcome "Programming for Everybody (Getting Started with Python)") | [certificate](https://coursera.org/share/33ee1ba8f6f11fd074c1a5ddcf71f0e2 "certificate")
+b. [Python Data Structures](https://www.coursera.org/learn/python-data/home/welcome "Python Data Structures") | [certificate](https://coursera.org/share/4a1e81f483e02a94b85f42199574de9b "certificate")
+c. [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data/home/welcome "Using Python to Access Web Data") | [certificate](https://coursera.org/share/0099091c1c20c53037356f0afb1ea966 "certificate")
+4. [SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science/home/welcome "SQL for Data Science") (University of California Davis/ Coursera) | [certificate](https://coursera.org/share/3a8841e1fa16244a4f9677fb58a5d60d "certificate")
