@@ -11,7 +11,7 @@ This repo was not created with an ambition to replace an actual degree. My goals
 
 All with super low to no cost from online resources.
 
-_Read more: "Do I think a master's degree in Computer Science/ Data Science is necessary?"_
+_Read more: "Do I think a master's degree in [Computer Science/ Data Science/ Analytics/ etc] is worth it?"_
 
 ### Prerequisites
 I built this curriculum using myself an anchor (non-STEM background, b-school graduate, accountant).
