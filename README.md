@@ -20,8 +20,10 @@ I built this curriculum using myself an anchor (non-STEM background, b-school gr
 
 ### Bridging Courses
 #### Mathematics
-1. [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome "Mathematics for Machine Learning: Linear Algebra") | repo | [certificate](https://coursera.org/share/1669232101d985c26e57e44efa8c11a1 "certificate")
-2. [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning/home/welcome "Mathematics for Machine Learning: Multivariate Calculus") | repo | [certificate](https://coursera.org/share/07e5fdc5d8e1d7ba3781c579c2fcd21a "certificate")
+1. [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome "Mathematics for Machine Learning: Linear Algebra") (Imperial College London/ Coursera) | repo | [certificate](https://coursera.org/share/1669232101d985c26e57e44efa8c11a1 "certificate")
+2. [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning/home/welcome "Mathematics for Machine Learning: Multivariate Calculus") (Imperial College London/ Coursera) | repo | [certificate](https://coursera.org/share/07e5fdc5d8e1d7ba3781c579c2fcd21a "certificate")
+3. [Introduction to Probability and Data with R](https://www.coursera.org/learn/probability-intro/home/welcome "Introduction to Probability and Data with R") (Duke University/ Coursera) | [repo](https://github.com/mariafshan/no-degree-data-science/tree/main/duke-stats-with-r/introduction-to-probability-and-data-with-r "repo")
+> Textbook: [OpenIntro Statistics](https://leanpub.com/os "OpenIntro Statistics")
 
 #### Programming
 1. [Stanford Code in Place](https://codeinplace.stanford.edu/ "Stanford Code in Place")
