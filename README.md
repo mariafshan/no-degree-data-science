@@ -1,7 +1,5 @@
 # No Degree Data Science
-I have a bachelors with honours in Finance Accounting and Management with experiences as external auditor and tax accountant in accounting firms. Inspired by [David Venturi's No Degree Data Science Master's](https://davidventuri.com/blog/my-data-science-masters "David Venturi's No Degree Data Science Master's"), I decided to currate my own curriculum. Reasons being everyone began  and so I want to personalize my own journey.
-
-If you find my learning repo useful, then welcome.
+I have a bachelors with honours in Finance Accounting and Management with experiences as external auditor and tax accountant in accounting firms. Inspired by [David Venturi's No Degree Data Science Master's](https://davidventuri.com/blog/my-data-science-masters "David Venturi's No Degree Data Science Master's"), I decided to currate my own curriculum. Reasons being I want to personalize my own journey.
 
 ### Learning Goals
 This repo was not created with an ambition to replace an actual degree. My goals are therefore of the following:
