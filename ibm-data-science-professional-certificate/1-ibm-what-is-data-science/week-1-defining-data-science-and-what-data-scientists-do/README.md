@@ -213,3 +213,10 @@ Bernard reported on Walmart, which turned to crowd-sourcing for its analytics ne
 Given the shortage of data scientists, employers are willing to pay top dollars for the talent. Michael Chui, a principal at McKinsey, knows this too well. "Data science has become relevant to every company...There's a war for this type of talent," he said in an interview. Take Paul Minton, for example. He was making 20,000 USD serving tables at a restaurant. He had majored in math at college. Mr. Minton took a three-month programming course that changed everything. He made over 100,000 USD in 2014 as a data scientist for a web startup in San Francisco. *Six figures, right off the bat...To me, it was astonishing*, said Mr Minton.
 
 Could Mr Minton be exceptionally fortunate, or are such high salaries the norm? Luck had little to do with it; the New York Times reported 100,000 USD as the average base salary of a software engineer and 112,000 USD for data scientists.
+
+# Lesson Summary
+In this lesson, you have learned:
+1. Data science is the study of large quantities of data, which can reveal insights that help organizations make strategic choices.
+2. There are  many paths to a career in data science; most, but not all, involve a little math, a little science, and a lot of curiosity about data.
+3. New data scientists need to be curious, judgemental and argumentative.
+4. Why data science is considered the sexiest job in the 21st century, paying high salaries for skilled workers.
