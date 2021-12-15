@@ -141,6 +141,35 @@ Fundamentals of data science:
 ### What did you think when you first heard the term 'data science'?
 > The first question is what is it? And I think faculty and everybody is still trying to get their hands around exactly what is business analytics and what is data science. We certainly know the components of it. But it's morphing and changing and growing. I mean the last three years deep learning has just been added into the mix. Neural networks have been around for 20 or 30 years. 20 years ago, I would teach neural networks in a class and you really couldn't do very much with them. And now some researchers have come up with multi-layer neural networks in Toronto in particular the University of Toronto. And that technology is now rapidly expanding it's being used by Google, by Facebook, by lots of companies.
 
+# 2.3. How Big Data is Driving Digital Transformation
+https://www.coursera.org/learn/what-is-datascience/lecture/kt5UL/how-big-data-is-driving-digital-transformation
+
+Digital Transformation affects business operations, updating existing processes and operations and creating new ones to harness the benefits of new technologies.
+
+This digital change integrates digital technology into all areas of an organization resulting in fundamental changes to how it operates and delivers value to customers. It is an organizational and cultural change driven by **Data Science**, and especially **Big Data**.
+
+The availability of vast amounts of data, and the competitive advantage that analyzing it brings, has triggered digital transformations throughout many industries.
+
+1. Netflix moved from being a postal DVD lending system to one of the world’s foremost video streaming providers
+2. The Houston Rockets NBA team used data gathered by overhead cameras to analyze the most productive plays.
+3. Lufthansa analyzed customer data to improve its service.
+
+#### Example of Big Data triggering a digital transformation in an entire industry
+
+In 2018, the Houston Rockets, a National Basketball Association, or NBA team, raised their game using Big Data. The Rockets were one of four NBA teams to install a video tracking system which mined raw data from games. They analyzed video tracking data to investigate which plays provided the best opportunities for high scores, and discovered something surprising.
+
+Data analysis revealed that the shots that provide the best opportunities for high scores are two-point dunks from inside the two-point zone, and three-point shots from outside the three-point line, not long-range two-point shots from inside it. This discovery entirely changed the way the team approached each game, increasing the number of three-point shots attempted.
+
+In the 2017-18 season, the Rockets made more three-point shots than any other team in NBA history, and this was a major reason they won more games than any of their rivals. In basketball, Big Data changed the way teams try to win, transforming the approach to the game.
+
+Digital transformation is not simply duplicating existing processes in digital form; the in-depth analysis of how the business operates helps organizations discover how to improve their processes and operations, and harness the
+benefits of integrating data science into their workflows.
+
+Most organizations realize that digital transformation will require fundamental changes to their approach towards data, employees, and customers, and it will affect their organizational culture.
+
+Digital transformation impacts every aspect of the organization, so it is handled by decision makers at the very top levels to ensure success. The support of the Chief Executive Officer is crucial to the digital transformation process, as is the support of the Chief Information Officer, and the emerging role of Chief Data Officer. But they also require support from the executives who control budgets, personnel decisions, and day-to-day priorities. This is a whole organization process. Everyone must support it for it to succeed.
+
+There is no doubt dealing with all the issues that arise in this effort requires a new mindset, but Digital Transformation is the way to succeed now and in the future.
 
 # Deep Learning and Machine Learning
 
