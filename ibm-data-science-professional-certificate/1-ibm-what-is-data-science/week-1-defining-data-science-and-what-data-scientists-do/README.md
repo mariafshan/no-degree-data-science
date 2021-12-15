@@ -42,7 +42,7 @@ Data science is the field of exploring, manipulating, and analyzing data, and us
 Although the different data scientists interviewed in the video gave what seemed like different answers, they all agreed that data science involved using data to answer questions or make recommendations.
 
 # 1.2. Fundamentals of Data Science
-https://www.coursera.org/learn/what-is-datascience/lecture/tPgFU/fundamentals-of-data-scienceFundamentals
+https://www.coursera.org/learn/what-is-datascience/lecture/tPgFU/fundamentals-of-data-science
 
 Data Science has a significant **data analysis** component.
 
