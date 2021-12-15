@@ -136,3 +136,51 @@ internship with data science.
 As data science is not a discipline traditionally taught at universities, contemporary data scientists come from diverse backgrounds such as engineering, statistics, and physics.
 
 This is correct. Contemporary data scientists come from different backgrounds such as engineering, mathematics, and even psychology. The secret skill is passion for continuous learning of new tools and patience to clean and analyze data.
+
+# 1.4. Advice for New Data Scientists
+https://www.coursera.org/learn/what-is-datascience/lecture/tVi7S/advice-for-new-data-scientists
+
+#### Murtaza Haider, PhD, Associate Professor, Ted Rogers School of Management
+
+According to professor Haider, the three important qualities to possess in order to succeed as a data scientist are:
+1. Curious
+2. Judgemental
+3. Argumentative
+
+> My advice to an aspiring data scientist is to be **curious**, **extremely argumentative** and **judgmental**.
+
+#### Curiosity
+> Curiosity is absolute must. If you're not curious, you would not know what to do with the data.
+
+#### Judgmental
+> Because if you do not have preconceived notions about things you wouldn't know where to begin with.
+
+#### Argumentative
+> Because if you can argument and if you can plead a case, at least you can start somewhere and then you learn from data and then you modify your assumptions and hypotheses and your data would help you learn and you may start at the wrong point. You may say that I thought I believed this, but now with data I know this. So, this allows you a learning process.
+
+> So, curiosity being able to take a position, strong position, and then moving forward with it. 
+
+#### Secondary Tools
+1. Some software
+2. Some computing platform
+
+> The most important thing is curiosity and the ability to take positions.
+
+> Once you have done that, once you've analyzed, then you've got some answers and that's the last thing that a data scientist need, and that is the **ability to tell a story**. That once you have your analytics, once you have your tabulations, now you should be able to tell a great story from it. Because if you don't tell a great story from it, your findings will remain hidden, remain buried, nobody would know. Your rise to prominence is pretty much relying on your ability to tell great stories.
+
+#### Starting point
+1. What is your competitive advantage?
+2. Do you want to be a data scientist in any field or a specific field? 
+
+> Because, let's say you want to be a data scientist and work for an IT firm or a web-based or Internet based firm, then you need a different set of skills
+
+> If you want to be a data scientist, for lets say, in the health industry, then you need different sets of skills.
+
+> So, figure out first what you're interested, and what is your competitive advantage.
+
+#### Competitive Advantage
+> Your competitive advantage is not necessarily going to be your analytical skills.
+
+> Your competitive advantage is your understanding of some aspect of life where you exceed beyond others in understanding that. Maybe it's film, maybe it's retail, maybe it's health, maybe it's computers.
+
+> Once you've figured out where your expertise lies, then you start acquiring analytical skills. What platforms to learn and those platforms, those tools would be specific to the industry that you're interested in and then once you have got some proficiency in the tools, the next thing would be to apply your skills to real problems, and then tell the rest of the world what you can do with it.
