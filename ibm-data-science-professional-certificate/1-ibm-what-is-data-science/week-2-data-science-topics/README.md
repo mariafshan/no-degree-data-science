@@ -98,7 +98,7 @@ So next time you strap on your smartwatch, unlock your smartphone, or track your
 # 2.2. What is Hadoop?
 https://www.coursera.org/learn/what-is-datascience/lecture/kbyiw/what-is-hadoop
 
-#### Norman White, Clinical Professor of CMS, Faculty Director, Ressearch Computing, New York University, Stern
+#### Norman White, Clinical Professor of CMS, Faculty Director, Research Computing, New York University, Stern
 
 According to Dr. White, most of the components of data science, such as probability, statistics, linear algebra, and programming, have been around for many decades but now we have the computational capabilities to apply combine them and come up with new techniques and learning algorithms.
 
@@ -170,6 +170,33 @@ Most organizations realize that digital transformation will require fundamental 
 Digital transformation impacts every aspect of the organization, so it is handled by decision makers at the very top levels to ensure success. The support of the Chief Executive Officer is crucial to the digital transformation process, as is the support of the Chief Information Officer, and the emerging role of Chief Data Officer. But they also require support from the executives who control budgets, personnel decisions, and day-to-day priorities. This is a whole organization process. Everyone must support it for it to succeed.
 
 There is no doubt dealing with all the issues that arise in this effort requires a new mindset, but Digital Transformation is the way to succeed now and in the future.
+
+# 2.4. Data Science Skills & Big Data
+https://www.coursera.org/learn/what-is-datascience/lecture/CFO4Y/data-science-skills-big-data
+
+### Norman White, Clinical Professor of CMS, Faculty Director, Research Computing, New York University, Stern
+
+According to Dr. White, his students, who are mostly aspiring data scientists, need to learn many tools such as Python, UNIX commands, pandas, and Jupyter notebook.
+
+> I'm Norman White, I'm a Clinical Faculty Member in the IOMS Department, Information, Operations and Management Science Department here at Stern. I've been here for a long time, since I got out of college, pretty much. I'm sort of a techy, geeky kind of person. I really like to play with technology in my spare time. I'm currently Faculty Director of the Stern Center for Research Computing, in which we have a private cloud that runs lots of different kinds of systems.
+
+> Many of our faculty or PhD students who need specialized hardware and software will come to us, we'll spin up a machine for them, configure it, I'll help them and advise on them. A lot of the data scientists, or virtually all the data scientists at Stern use our facilities. And their PhD students use them a lot.
+
+#### What did you study in your undergrad?
+> I have an undergraduate degree in Applied Physics and while I was an undergrad I took a number of economics courses, so I ended up deciding to go to business school, but I had, this was in the early days of computers and I had gotten interested in computers. I came to Stern, which was then NYU Business School downtown and they had a little computer center, and I decided that I was gonna learn two things while I was there. One, I was gonna learn how to program. I had taken one programming course in college. And I was gonna learn how to touch type.
+
+> I never did learn how to touch type. Or maybe I did but I've forgotten now, and back to two finger pecking. But I became a self taught programmer, and then I took a number of courses at IBM because I eventually came the director of the computer center, while I was getting my PhD in Economics and Statistics at Stern.
+
+> In 1973, the school formed a department called Computer Applications and Information Systems and I was one of the first faculty members in the department and I've been here ever since.
+
+#### What does your typical Monday look like?
+> My typical Monday is, I usually get in around 11 o'clock and I do my email at home first, but I come in and I have two classes on Monday. I have a class on design and development of web based systems at six o'clock. Two o'clock, I have a dealing with data class. The class is based on Python notebooks, so we start with the basics of Unix and Linux, just to get the students used to that. We move onto some Python, some regular expressions, a lot of relational databases, some Python Pandas, which is sort of like R for Python, lets you do mathematical and statistical calculations in Python. And then I end up with big data, for which, as you probably know, I'm an evangelist.
+
+> The students I have, weekly homeworks. I put them in teams and they have to do a big project at the end of the term, and they do some really cool things.
+
+#### Do you use Jupyter Notebooks?
+> Yes, in fact, the whole course is taught using Jupyter notebooks. Every student has their own virtual machine on Amazon Web Services, so we pre-configure all the machines and they get a standard image that has all of the materials for the course either loaded on it or in a Jupyter notebook, there are the commands to download it or update the server with the right software. So everybody is in the same environment, it doesn't matter what kind of, whether they have a Mac or a Windows machine or how old it is, everybody can do everything in the class.
+
 
 # Deep Learning and Machine Learning
 
