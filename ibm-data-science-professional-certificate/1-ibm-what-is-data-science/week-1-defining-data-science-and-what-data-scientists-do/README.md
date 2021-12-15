@@ -216,6 +216,7 @@ Could Mr Minton be exceptionally fortunate, or are such high salaries the norm? 
 
 # Lesson Summary
 https://www.coursera.org/learn/what-is-datascience/supplement/aixTi/lesson-summary
+
 In this lesson, you have learned:
 1. Data science is the study of large quantities of data, which can reveal insights that help organizations make strategic choices.
 2. There are  many paths to a career in data science; most, but not all, involve a little math, a little science, and a lot of curiosity about data.
