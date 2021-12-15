@@ -291,6 +291,44 @@ Once these conditions exist and available data is extracted, you can **develop a
 
 It will take time for an organization to refine best practices for data strategy using data science, but the benefits are worth it.
 
+# 1.8. Data Science Topics and Algorithms
+https://www.coursera.org/learn/what-is-datascience/lecture/pVptf/data-science-topics-and-algorithms
+
+Using complicated machine learning algorithms does not always guarantee achieving a better performance. Occasionally, a simple algorithm such as k-nearest neighbor can yield a satisfactory performance comparable to the one achieved using a complicated algorithm. It all depends on the data.
+
+In any field, and data science is no different, a simple solution is always preferred over a complicated one, especially if the performance is comparable.
+
+#### Shingai Manjengwa, CEO, Fireside Analytics Inc.
+> I really enjoy regression. I'd say regression was maybe one of the first concepts that I, that really helped me understand data so I enjoy regression.
+
+#### Rafael B. Da Silva
+>  Artificial neural networks.
+
+#### Diana Zarate Diaz
+> I really like data visualization. I think it's a key element for people to get across their message to people that don't understand that well what data science is.
+
+#### Luis O. Martins
+>  I'm really passionate about neural networks because we have a lot to learn with nature so when we are trying to mimic our, our brain I think that we can do some applications with this behavior with this biological behavior in algorithms.
+
+#### Mandeep Kaur
+> Data visualization with R. I love to do this.
+
+#### Stephen Sherman
+> Nearest neighbor. It's the simplest but it just gets the best results so many more times than some overblown, overworked algorithm that's just as likely to overfit as it is to make a good fit.
+
+#### Murtaza Haider, PhD, Associate Professor, Ted Rogers School of Management
+> So **structured data** is more like **tabular data**. Things that you’re familiar with in **Microsoft Excel** format. You've got **rows** and **columns** and that's called structured data.
+
+> **Unstructured data** is basically data that is coming from mostly from **web** where it's **not tabular**. It is not in rows and columns. It's **text**. It's sometimes it's **video** and **audio**, so you would have to deploy more **sophisticated algorithms** to **extract data**. And in fact, a lot of times we take unstructured data and spend a great deal of time and effort to get some structure out of it and then analyze it.
+
+> So, if you have something which fits nicely into tables and columns and rows, go ahead. That's your structured data. But if you see if it's a weblog or if you're trying to get information out of webpages and you've got a gazillion web pages, that's unstructured data that would require a little bit more effort to get information out of it.
+
+> There are thousands of books written on **regression** and millions of lectures delivered on regression and I always feel that they don’t do a good job of explaining regression because they get into data and models and statistical distributions. Let's forget about it. Let me explain regression in the simplest possible terms.
+
+> If you have ever taken a cab ride, a taxi ride, you understand regression. Here is how it works. The moment you sit in a cab ride, in a cab, you see that there's a fixed amount there. It says $2.50. You, rather the cab, moves or you get off. This is what you owe to the driver the moment you step into a cab. That's a **constant**. You have to pay that amount if you have stepped into a cab. Then, as it starts moving for every meter or hundred meters the fare increases by certain amount. So there's a **fraction**, there's a **relationship** between distance and the amount you would pay above and beyond that constant. And if you're not moving and you're stuck in traffic, then every additional minute you have to pay more. So as the minutes increase, your fare increases. As the distance increases, your fare increases. And while all this is happening you've already paid a base fare which is the constant.
+
+> This is what regression is. Regression tells you what the base fare is and what is the relationship between time and the fare you have paid, and the distance you have traveled and the fare you've paid. Because in the absence of knowing those relationships, and just knowing how much people traveled for and how much they paid, **regression allows you to compute that constant that you didn't know**. That it was $2.50, and it would compute the relationship between the fare and and the distance and the fare and the time. That is regression.
+
 # Lesson Summary
 https://www.coursera.org/learn/what-is-datascience/supplement/aixTi/lesson-summary
 
