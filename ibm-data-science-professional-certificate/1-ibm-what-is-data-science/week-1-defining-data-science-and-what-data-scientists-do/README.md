@@ -100,6 +100,9 @@ Help stakeholders understand:
 3. Our approach to the world
 4. The way organisations understand the world.
 
+# 1.3. The Many Paths to Data Science
+https://www.coursera.org/learn/what-is-datascience/lecture/QcFwx/the-many-paths-to-data-science
+
 #### Shingai Manjengwa, CEO, Fireside Analytics Inc.
 > Data science didn't really exist when I was growing up. It's not something that I ever woke up and said, I want to be a data scientist when I grow up. No, it didn't exist. I didn't know I would be working in data science.
 
