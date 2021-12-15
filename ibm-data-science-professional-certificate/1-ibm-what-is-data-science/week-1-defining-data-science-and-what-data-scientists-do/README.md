@@ -230,6 +230,67 @@ As a data scientist. You get to work on a broad spectrum of projects. Which of t
 #### Murtaza Haider, PhD, Associate Professor, Ted Rogers School of Management
 > In Toronto, the public transit is operated by Toronto Transit Commission. We call them TTC. It's one of the largest transit authorities in the region, in North America. And one day they contacted me and said, "We have a problem." And I said, "Okay, what's the problem?" They said, "Well, we have complaints data, and we would like to analyze it, and we need your help." I said, "Fine I would be very happy to help." So I said, "How many complaints do you have?" They said, "A few." I said, "How many?" Maybe half a million. I said, "Well, let's start working with it." So I got the data and I started analyzing it. So, basically, they have done a great job of keeping some data in tabular format that was unstructured data. And in that case, tabular data was when the complaint arrived, who received it, what was the type of the complaint, was it resolved, whose fault was it. And the unstructured part of it was the exchange of e-mails and faxes. So, imagine looking at how half a million exchanges of e-mails and trying to get some answers from it. So I started working with it. The first thing I wanted to know is why would people complain and is there a pattern or is there some days when there are more complaints than others? And I had looked at the data and I analyzed it in all different formats, and I couldn't find [what] the impetus for complaints being higher on a certain day and lower on others. And it continued for maybe a month or so. And then, one day I was getting off the bus in Toronto, and I was still thinking about it. And I stepped out without looking on the ground, and I stepped into a puddle, puddle of water. And now, I was sort of ankle deep into water, and it was just one foot wet and the other dry. And I was extremely annoyed. And I was walking back and then it hit me, and I said, "Well, wait a second. Today it rained unexpectedly, and I wasn't prepared for it. That's why I'm wet, and I wasn't looking for it." What if there was a relationship between extreme weather and the type of complaints TTC receives? So I went to the environment Canada's website, and I got data on rain and precipitation, wind and the light. And there, I found something very interesting. The 10 most excessive days for complaints. The 10 days where people complain the most were the days when the weather was bad. It was unexpected rain, an extreme drop in temperature, too much snow, very windy day. So I went back to the TTC's executives and I said, "I've got good news and bad news." And the good news is, I know why people would complain excessively on certain days. I know the reason for it. The bad news is, there's nothing you can do about it.
 
+# 1.7. Old problems, new problems, Data Science solutions
+https://www.coursera.org/learn/what-is-datascience/lecture/MQKK1/old-problems-new-problems-data-science-solutions
+
+Organizations can leverage the almost unlimited amount of data now available to them in a growing number of ways.
+
+However, all organizations ultimately use data science for the same reason—**to discover optimum solutions to existing problems**.
+
+## Examples of data science providing innovative solutions for old problems.
+
+### 1. Transportation
+
+#### Uber
+Uber collects real-time user data to discover:
+1. How many drivers are available.
+2. If more are needed.
+3. If they should allow a surge charge to attract more drivers.
+
+Uber uses data to put the **right number of drivers** in the **right place**, at the **right time**, for a cost the rider is **willing to pay**.
+
+#### Toronto Transportation Commission
+The Toronto Transportation Commission has made great strides in solving an old problem with:
+1. Traffic flows
+2. Restructuring those flows in and around the city
+
+Using data science tools and analysis, they have:
+1. Gathered data to better understand street car operations.
+2. Identify areas for interventions.
+3. Analyzed customer complaints data.
+4. Used probe data to better understand traffic performance on main routes.
+5. created a team to better capitalize on big data for both planning, operations and evaluation.
+
+![](1-7-1.jpg)
+By focusing on peak hour clearances and identifying the most congested routes, monthly hours lost for commuters due to traffic congestion dropped from 4.75 hours in 2010 to 3 hours in mid-2014.
+
+### 2. Environment
+
+#### Cyanobacterial
+In facing issues in our environment, data science can also play a proactive role. Freshwater lakes supply a variety of human and ecological needs, such as providing drinking water and producing food. But lakes across the world are threatened by increasing incidences of **harmful cyanobacterial blooms**.
+
+There are many projects and studies to solve this long-existing dilemma. In the US, a team of scientists from research centers stretching from Maine to South Carolina is developing and deploying high-tech tools to explore cyanobacteria in lakes across the east coast.
+
+In lakes where cyanobacteria are detected, to collect large volumes of data related to the lakes and the development of the harmful blooms, the team is using:
+1. Robotic boats - physical data
+2. Buoys - chemical data
+3. Camera-equipped drones - biological data
+
+The project is also building new algorithmic models to assess the findings. The information collected will lead to better **predictions** of **when** and **where** cyanobacterial blooms take place, enabling proactive approaches to protect public health in recreational lakes and in those that supply drinking water.
+
+Such interdisciplinary training prepares the next generation of scientists to address societal issues with the proper modernized data science tools. It takes **gathering** a lot of data, **cleaning** and **preparing** it, and then **analyzing** it to **gain the insight** needed to develop **better solutions** for today's enterprises.
+
+## How do you get a better solution that is efficient?
+You must:
+1. Identify the problem and establish a clear understanding of it.
+2. Gather the data for analysis.
+3. Identify the right tools to use, and develop a data strategy.
+4. Case studies are also helpful in customizing a potential solution.
+
+Once these conditions exist and available data is extracted, you can **develop a machine learning model**.
+
+It will take time for an organization to refine best practices for data strategy using data science, but the benefits are worth it.
+
 # Lesson Summary
 https://www.coursera.org/learn/what-is-datascience/supplement/aixTi/lesson-summary
 
