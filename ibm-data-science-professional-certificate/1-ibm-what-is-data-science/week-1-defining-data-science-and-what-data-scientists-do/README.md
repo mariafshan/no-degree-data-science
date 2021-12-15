@@ -413,9 +413,13 @@ Rachel Schutt is the Chief Data Scientist at News Corp. She teaches a data scien
 
 # Lesson Summary
 https://www.coursera.org/learn/what-is-datascience/supplement/aixTi/lesson-summary
+https://www.coursera.org/learn/what-is-datascience/supplement/AVdmh/lesson-summary
 
 In this lesson, you have learned:
 1. Data science is the study of large quantities of data, which can reveal insights that help organizations make strategic choices.
 2. There are  many paths to a career in data science; most, but not all, involve a little math, a little science, and a lot of curiosity about data.
 3. New data scientists need to be curious, judgemental and argumentative.
 4. Why data science is considered the sexiest job in the 21st century, paying high salaries for skilled workers.
+5. The typical work day for a Data Scientist varies depending on what type of project they are working on.
+6. Many algorithms are used to bring out insights from data. 
+7. Accessing algorithms, tools, and data through the Cloud enables Data Scientists to stay up-to-date and collaborate easily.
