@@ -197,6 +197,34 @@ According to Dr. White, his students, who are mostly aspiring data scientists, n
 #### Do you use Jupyter Notebooks?
 > Yes, in fact, the whole course is taught using Jupyter notebooks. Every student has their own virtual machine on Amazon Web Services, so we pre-configure all the machines and they get a standard image that has all of the materials for the course either loaded on it or in a Jupyter notebook, there are the commands to download it or update the server with the right software. So everybody is in the same environment, it doesn't matter what kind of, whether they have a Mac or a Windows machine or how old it is, everybody can do everything in the class.
 
+# 2.5. Data Scientists at New York University
+https://www.coursera.org/learn/what-is-datascience/lecture/ivDZx/data-scientists-at-new-york-university
+
+### Norman White, Clinical Professor of CMS, Faculty Director, Research Computing, New York University, Stern
+
+Data science and business analytics became very hot subjects recently, since around the year 2012.
+
+According to Dr. White:
+1. Big data was started by Google when Google tried to figure out how how to solve their PageRank algorithm.
+2. Big data is is data that is large enough and has enough volume and velocity that you cannot handle it with traditional data database systems.
+
+> Everybody knows how to program, at least a little bit. They all have a little bit of programming background at least, and some of them have a lot. Some of them are Masters of Science and Computer Science, some of them are MBA students who've come in from technical fields and programmed every day. And others are ones who maybe took a programming course in college four or five years ago but at least they can think computationally, which I think is the most important thing that they need.
+
+#### Are data science skills becoming more important in the work place?
+> Data science and business analytics have become very hot subjects in the last four or five years. We have new tools, we have new approaches, and we have lots and lots of data that traditional techniques just couldn't really store and handle. I think the word is out. I think at this point, at first, companies and employers understood the need, especially in certain fields. I can remember talking to a major bank three years ago about big data and there was one little group in the bank where one person had a little effort in putting a little cluster together. Now that same bank has five or six major big data clusters and they're putting all of their credit card data in it and they're grinding it upside down and sideways, using all sorts of data science kinds of techniques.
+
+> Two years ago, or was it last year, I think, our undergraduate dealing with data course had 28 students in it. This year it has 140. So that means that the parents are now beginning to get the word, because one thing we understand with our undergrads is the parents who are paying very hefty tuitions, they, you know, they tell their sons and daughters, "You know, you should be an accountant," right? Or, "You should go into financial services, "or into marketing, 'cause this is where the money is." Now, they're getting the word that maybe you should take some more STEM classes in high school and be ready to go into data science or go into fields where analytics has become more and more important.
+
+#### What is Big Data?
+> It depends on who you are. I have my own definition of big data.
+
+> My definition of big data is data that is large enough and has enough volume and velocity that you cannot handle it with traditional database systems.
+
+> Some of our statisticians think big data is something you can't fit on a thumb drive.
+
+> Big data, to me, was started by Google. When Google tried to figure out how they were, when Larry Page and Sergey Brin wanted to, basically, figure out how to solve their page rank algorithm, there was nothing out there. They were trying to store all of the web pages in the world, and there was no technology, there was no way to do this, and so they went out and developed this approach, which has now become, Hadoop has copied it, but this is where all these large, big data clusters are found.
+
+> But big data has now also expanded into, how do you analyze? There are new analytical techniques and statistical techniques for handling these really, really, really large data sets. We'll probably get to deep learning at some point along here.
 
 # Deep Learning and Machine Learning
 
