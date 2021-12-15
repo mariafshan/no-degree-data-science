@@ -329,6 +329,39 @@ In any field, and data science is no different, a simple solution is always pref
 
 > This is what regression is. Regression tells you what the base fare is and what is the relationship between time and the fare you have paid, and the distance you have traveled and the fare you've paid. Because in the absence of knowing those relationships, and just knowing how much people traveled for and how much they paid, **regression allows you to compute that constant that you didn't know**. That it was $2.50, and it would compute the relationship between the fare and and the distance and the fare and the time. That is regression.
 
+# 1.9. Cloud for Data Science
+https://www.coursera.org/learn/what-is-datascience/lecture/LFQLn/cloud-for-data-science
+
+#### Murtaza Haider, PhD, Associate Professor, Ted Rogers School of Management
+
+According to professor Haidar, what is true about the cloud, allows you to bypass the physical limitations of your personal computer and the systems you are using.
+
+> Cloud is a godsend for data scientists. Primarily because you're able to take [the] your data, take your information and put it in the Cloud, put it in a central storage system. **It allows you to bypass the physical limitations of the computers and the systems you're using and it allows you to deploy the analytics and storage capacities of advanced machines that do not necessarily have to be your machine or your company's machine.**
+
+> Cloud allows you not just to store large amounts of data on servers somewhere in California or in Nevada, but it also allows you to deploy very advanced computing algorithms and the ability to do high-performance computing using machines that are not yours.
+
+> Think of it as you have some information, you can't store it, so you send it to storage space, let's call it Cloud, and the algorithms that you need to use, you don't have them with you. But then on the Cloud, you have those
+algorithms available. So What you do is you deploy those algorithms on very large datasets and you're able to do it even though your own systems, your own machines, your own computing environments were not allowing you to do so. So Cloud is beautiful.
+
+> The other thing that Cloud is beautiful for is that **it allows multiple entities to work with same data at the same time**. You can be working with the same data that your colleagues in say Germany and another team in India and another team in Ghana, they are collectively working and they're able to do so because the information, and the algorithms, and the tools, and the answers, and the results, whatever they needed is available at a central place, which we call Cloud.
+
+![](1-9-1.jpg)
+Using the Cloud enables you to get **instant access** to **open source technologies** like Apache Spark without the need to install and configure them locally. Using the Cloud also gives you access to the most up-to-date tools and libraries without the worry of maintaining them and ensuring that they are up to date.
+
+![](1-9-2.jpg)
+The Cloud is accessible from everywhere and in every time zone. You can use cloud-based technologies from your laptop, from your tablet, and even from your phone, enabling collaboration more easily than ever before. Multiple collaborators or teams can access the data simultaneously, working together on producing a solution.
+
+![](1-9-3.jpg)
+Some big tech companies offer Cloud platforms, allowing you to become familiar with cloud-based technologies in a pre-built environment.
+1. IBM - IBM Cloud
+2. Amazon - Amazon Web Services (AWS)
+3. Google - Google Cloud platform
+
+![](1-9-4.jpg)
+IBM also provides **Skills Network labs** or **SN labs** to learners registered at any of the learning portals on the **IBM Developer Skills Network**, where you have access to tools like **Jupyter Notebooks** and **Spark clusters** so you can create your own data science project and develop solutions.
+
+With practice and familiarity, you will discover how the Cloud dramatically enhances productivity for data scientists.
+
 # Lesson Summary
 https://www.coursera.org/learn/what-is-datascience/supplement/aixTi/lesson-summary
 
