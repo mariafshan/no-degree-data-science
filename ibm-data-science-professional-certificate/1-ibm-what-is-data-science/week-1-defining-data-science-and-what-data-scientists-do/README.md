@@ -140,7 +140,7 @@ This is correct. Contemporary data scientists come from different backgrounds su
 # 1.4. Advice for New Data Scientists
 https://www.coursera.org/learn/what-is-datascience/lecture/tVi7S/advice-for-new-data-scientists
 
-#### Murtaza Haider, PhD, Associate Professor, Ted Rogers School of Management
+### Murtaza Haider, PhD, Associate Professor, Ted Rogers School of Management
 
 According to professor Haider, the three important qualities to possess in order to succeed as a data scientist are:
 1. Curious
