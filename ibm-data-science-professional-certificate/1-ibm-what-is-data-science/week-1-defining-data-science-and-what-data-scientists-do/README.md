@@ -413,6 +413,7 @@ Rachel Schutt is the Chief Data Scientist at News Corp. She teaches a data scien
 
 # Lesson Summary
 https://www.coursera.org/learn/what-is-datascience/supplement/aixTi/lesson-summary
+
 https://www.coursera.org/learn/what-is-datascience/supplement/AVdmh/lesson-summary
 
 In this lesson, you have learned:
