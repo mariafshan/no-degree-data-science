@@ -268,15 +268,10 @@ Data mining and evaluating the results becomes an iterative process such that th
 # Hands-on Exercise: Data Science Exploration
 
 # Lesson Summary
-https://www.coursera.org/learn/what-is-datascience/supplement/aixTi/lesson-summary
-
-https://www.coursera.org/learn/what-is-datascience/supplement/AVdmh/lesson-summary
+https://www.coursera.org/learn/what-is-datascience/supplement/oQJ1o/lesson-summary
 
 In this lesson, you have learned:
-1. Data science is the study of large quantities of data, which can reveal insights that help organizations make strategic choices.
-2. There are  many paths to a career in data science; most, but not all, involve a little math, a little science, and a lot of curiosity about data.
-3. New data scientists need to be curious, judgemental and argumentative.
-4. Why data science is considered the sexiest job in the 21st century, paying high salaries for skilled workers.
-5. The typical work day for a Data Scientist varies depending on what type of project they are working on.
-6. Many algorithms are used to bring out insights from data. 
-7. Accessing algorithms, tools, and data through the Cloud enables Data Scientists to stay up-to-date and collaborate easily.
+1. How Big Data is defined by the Vs: Velocity, Volume, Variety, Veracity, and Value.
+2. How Hadoop and other tools, combined with distributed computing power,  are used to handle the demands of Big Data.  
+3. What skills are required to analyse Big Data. 
+4. About the process of Data Mining, and how it produces results.
