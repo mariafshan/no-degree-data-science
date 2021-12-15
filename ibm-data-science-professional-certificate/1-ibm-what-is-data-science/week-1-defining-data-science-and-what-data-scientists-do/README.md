@@ -65,7 +65,7 @@ Data science can help organizations:
 2. Analyze existing issues
 3. Reveal previously hidden opportunities
 
-![1-2-1.jpg](attachment:1-2-1.jpg)
+![](1-2-1.jpg)
 
 Data scientists use data analysis to add to the **knowledge** of the organization by investigating data, exploring the best way to use it to provide **value** to the business.
 
