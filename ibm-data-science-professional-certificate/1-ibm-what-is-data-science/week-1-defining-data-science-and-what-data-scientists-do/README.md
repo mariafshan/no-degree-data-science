@@ -140,7 +140,7 @@ This is correct. Contemporary data scientists come from different backgrounds su
 # 1.4. Advice for New Data Scientists
 https://www.coursera.org/learn/what-is-datascience/lecture/tVi7S/advice-for-new-data-scientists
 
-### Murtaza Haider, PhD, Associate Professor, Ted Rogers School of Management
+## Murtaza Haider, PhD, Associate Professor, Ted Rogers School of Management
 
 According to professor Haider, the three important qualities to possess in order to succeed as a data scientist are:
 1. Curious
@@ -160,7 +160,7 @@ According to professor Haider, the three important qualities to possess in order
 
 > So, curiosity being able to take a position, strong position, and then moving forward with it. 
 
-#### Secondary Tools
+### Secondary Tools
 1. Some software
 2. Some computing platform
 
@@ -168,7 +168,7 @@ According to professor Haider, the three important qualities to possess in order
 
 > Once you have done that, once you've analyzed, then you've got some answers and that's the last thing that a data scientist need, and that is the **ability to tell a story**. That once you have your analytics, once you have your tabulations, now you should be able to tell a great story from it. Because if you don't tell a great story from it, your findings will remain hidden, remain buried, nobody would know. Your rise to prominence is pretty much relying on your ability to tell great stories.
 
-#### Starting point
+### Starting point
 1. What is your competitive advantage?
 2. Do you want to be a data scientist in any field or a specific field? 
 
