@@ -193,7 +193,7 @@ Author: Murtaza Haider
 
 Prescribed Reading: Chapter 1 Pg. 4
 
-# Data Science: The Sexiest Job in the 21st Century
+## Data Science: The Sexiest Job in the 21st Century
 In the data-driven world, data scientists have emerged as a hot commodity. The chase is on to find the best talent in data science. Already, experts estimate that millions of jobs in data science might remain vacant for the lack of readily available talent. The global search for skilled data scientists is not merely a search for statisticians or computer scientists. In fact, the firms are searching for well-rounded individuals who possess the subject matter expertise, some experience in software programming and analytics, and exceptional communication skills.
 
 Our digital footprint has expanded rapidly over the past 10 years. The size of the digital universe was roughly 130 billion gigabytes in 1995. By 2020, this number will swell to 40 trillion gigabytes. Companies will compete for hundreds of thousands, if not millions, of new workers needed to navigate the digital world. No wonder the prestigious Harvard Business Review called data science **the sexiest job in the 21st century**.
@@ -215,6 +215,7 @@ Given the shortage of data scientists, employers are willing to pay top dollars 
 Could Mr Minton be exceptionally fortunate, or are such high salaries the norm? Luck had little to do with it; the New York Times reported 100,000 USD as the average base salary of a software engineer and 112,000 USD for data scientists.
 
 # Lesson Summary
+https://www.coursera.org/learn/what-is-datascience/supplement/aixTi/lesson-summary
 In this lesson, you have learned:
 1. Data science is the study of large quantities of data, which can reveal insights that help organizations make strategic choices.
 2. There are  many paths to a career in data science; most, but not all, involve a little math, a little science, and a lot of curiosity about data.
