@@ -338,6 +338,8 @@ https://www.coursera.org/learn/what-is-datascience/supplement/DA71u/lesson-summa
 
 https://www.coursera.org/learn/what-is-datascience/supplement/BoAWb/lesson-summary
 
+https://www.coursera.org/learn/what-is-datascience/supplement/C7g78/lesson-summary
+
 In this lesson, you have learned:
 1. Data Science helps physicians provide the best treatment for their patients, and helps meteorologists predict the extent of local weather events, and can even help predict natural disasters like earthquakes and tornadoes.
 2. That companies can start on their data science journey by capturing data. Once they have data, they can begin analysing it.
@@ -347,3 +349,6 @@ In this lesson, you have learned:
 6. Data Scientists need programming, mathematics, and database skills, many of which can be gained through self-learning.
 7. Companies recruiting for a Data Science team need to understand the variety of different roles Data Scientists can play, and look for soft skills like storytelling and relationship building as well as technical skills.
 8. High school students considering a career in Data Science should learn programming, math, databases, and, most importantly practice their skills.
+9. The length and content of the final report will vary depending on the needs of the project.
+10. The structure of the final report for a Data Science project should include a cover page, table of contents, executive summary, detailed contents, acknowledgements, references and appendices.
+11. The report should present a thorough analysis of the data and communicate the project findings.
