@@ -13,6 +13,8 @@ All with super low to no cost from online resources.
 I built this curriculum using myself an anchor (non-STEM background, b-school graduate, accountant).
 
 ### Bridging Courses
+[What is Data Science?](http:https://www.coursera.org/learn/what-is-datascience// "What is Data Science") (IBM/ Coursera) | [repo](https://github.com/mariafshan/no-degree-data-science/tree/main/ibm-data-science-professional-certificate/1-ibm-what-is-data-science "repo") | [certificate](https://www.coursera.org/account/accomplishments/certificate/EHCTHSF6BW8Q "certificate") | [badge](https://www.credly.com/go/hpKfvg7X "badge")
+
 #### Mathematics
 1. [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome "Mathematics for Machine Learning: Linear Algebra") (Imperial College London/ Coursera) | repo | [certificate](https://coursera.org/share/1669232101d985c26e57e44efa8c11a1 "certificate")
 2. [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning/home/welcome "Mathematics for Machine Learning: Multivariate Calculus") (Imperial College London/ Coursera) | repo | [certificate](https://coursera.org/share/07e5fdc5d8e1d7ba3781c579c2fcd21a "certificate")
