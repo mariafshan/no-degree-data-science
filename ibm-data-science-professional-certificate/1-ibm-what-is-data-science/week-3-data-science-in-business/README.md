@@ -12,6 +12,8 @@ In this module, you will learn about the approaches companies can take to start 
 6. Define the purpose of the final deliverable of a data science project and the role of storytelling in the final deliverable.
 7. Describe what the final report of a Data Science project should cover and how it should be structured for best results.
 
+# Data Science in Business
+
 # 3.1. How Data Science is saving lives
 https://www.coursera.org/learn/what-is-datascience/lecture/RvMe9/how-data-science-is-saving-lives
 
@@ -54,7 +56,35 @@ Because the real benefit of this knowledge is so important, schools are starting
 
 Data science tools enable organizations to analyse vast quantities of data from widely different sources, and present that information in a way that allows data scientists to gain new knowledge, in some cases, saving hundreds of lives.
 
-# Data Science in Business
+# 3.2. How Should Companies Get Started in Data Science?
+https://www.coursera.org/learn/what-is-datascience/lecture/AAArc/how-should-companies-get-started-in-data-science
+
+Some of the first steps that companies need to take to get started in data science:
+1. Start collecting data - Without data, no data science work can be carried out
+2. Put together a team of data scientists - You need competent data scientists who would use the data to help you make data-driven decisions
+
+
+Discard any old data that had acquired in order to start over.
+
+## Murtaza Haider, PhD, Associate Professor, Ted Rogers School of Management
+> At the end of the day, for businesses, they know one thing, that if they are unable to measure something, they are unable to improve it. And if they are unable to measure their costs, they are unable to reduce them. If they're unable to measure their profits, they are unable to increase them. So the first thing a company has to do is to start recording information, start capturing data, data about costs. And the differentiate it by labor costs and material cost, the cost to how much it cost to sell one product and the total cost. And then you look at the revenue, where's your revenue coming from? Is 80% of your revenue coming from 20% of your customers? Or is it the other way around?
+
+> So first thing first, start capturing data. Once you have data, then you can apply algorithms and analytics to it. So the first thing to do would be to capture data. If you're not capturing it, start capturing it. If you're capturing it, archive it. Do not overwrite on your old data thinking you don't need it anymore. Data never gets old. Data is always relevant, even if it's 100 years old, 200 years old. It is relevant to you and and your firm and your success. So keep data, capture it, archive it, make sure nothing goes to waste. Make sure there's a consistency. So someone 20 years later trying to understand, that data should be able to do so, so have proper documentation. Do it now. Put the best practices for data archiving in place the moment you start a business. And if you're already in business and you haven't done it, do it now.
+
+## Stephen Sherman
+> Start measuring things. Too many companies haven't measured things properly for a decade and, then they decide, they want data science. Data science inside a company is only going to be as valuable as the data collected. Garbage in, garbage out is a rule in any sort of analysis.
+
+## Shingai Manjengwa, CEO, Fireside Analytics Inc.
+> If something is not measured, it's very difficult to improve it or to change it. So the very first step is measurement. If companies have existing data, then they should start looking at it and cleaning it. If they don't have existing data, then they need to start collecting it.
+
+## Mandeep Kaur
+> I think to look for a team who love to work as a data scientist.
+
+## Luis O. Martins
+> The first stop is to have employees, that they are interested on data science. because if you don't have interest in your company, you will not have engagement.
+
+## Diana Zarate Diaz
+> Companies should remember, that it's key to have a team. So it's not one data scientist, but a team of them, that each of them have strengths in different areas of data science.
 
 # Careers and Recruiting in Data Science
 
