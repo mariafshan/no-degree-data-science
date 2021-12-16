@@ -63,9 +63,6 @@ Some of the first steps that companies need to take to get started in data scien
 1. Start collecting data - Without data, no data science work can be carried out
 2. Put together a team of data scientists - You need competent data scientists who would use the data to help you make data-driven decisions
 
-
-Discard any old data that had acquired in order to start over.
-
 ## Murtaza Haider, PhD, Associate Professor, Ted Rogers School of Management
 > At the end of the day, for businesses, they know one thing, that if they are unable to measure something, they are unable to improve it. And if they are unable to measure their costs, they are unable to reduce them. If they're unable to measure their profits, they are unable to increase them. So the first thing a company has to do is to start recording information, start capturing data, data about costs. And the differentiate it by labor costs and material cost, the cost to how much it cost to sell one product and the total cost. And then you look at the revenue, where's your revenue coming from? Is 80% of your revenue coming from 20% of your customers? Or is it the other way around?
 
