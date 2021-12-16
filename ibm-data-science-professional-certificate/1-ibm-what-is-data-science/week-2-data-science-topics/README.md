@@ -418,8 +418,14 @@ A whole host of questions could be put to regression analysis. Some examples of 
 # Lesson Summary
 https://www.coursera.org/learn/what-is-datascience/supplement/oQJ1o/lesson-summary
 
+https://www.coursera.org/learn/what-is-datascience/supplement/xCz6Q/lesson-summary
+
 In this lesson, you have learned:
 1. How Big Data is defined by the Vs: Velocity, Volume, Variety, Veracity, and Value.
 2. How Hadoop and other tools, combined with distributed computing power,  are used to handle the demands of Big Data.  
 3. What skills are required to analyse Big Data. 
 4. About the process of Data Mining, and how it produces results.
+5. The differences between some common Data Science terms, including Deep Learning and Machine Learning.
+6. Deep Learning is a type of Machine Learning that simulates human decision-making using neural networks.
+7. Machine Learning has many applications, from recommender systems that provide relevant choices for customers on commercial websites, to detailed analysis of financial markets.
+8. How to use regression to analyze data.
