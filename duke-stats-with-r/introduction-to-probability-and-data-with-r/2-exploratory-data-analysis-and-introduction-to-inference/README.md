@@ -19,5 +19,7 @@
 **LO 7.** Recognize when transformations (e.g. log) can make the distribution of data more symmetric, and hence easier to model. 
 
 Test yourself:
+
 *1. Describe what is meant by robust statistics and when they are used.*
+
 *2. Describe when and why we might want to apply a log transformation to a variable.*
